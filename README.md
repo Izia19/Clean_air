@@ -1,8 +1,7 @@
-# Clean Air
+# Clean Air 🌥🌧
 Aplikacja do sprawdzania stanu powietrza oraz pogody w twojej lokalizacji
 
 ## Wyglad
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/user-attachments/assets/cccf8637-47da-455e-b40a-4fa32a4e7a5a)
-![SmartSelect_20240920_183940](https://github.com/user-attachments/assets/cccf8637-47da-455e-b40a-4fa32a4e7a5a) 
-![Screenshot_20240920_183956](https://github.com/user-attachments/assets/f814138a-5231-474e-8889-24c7b92645c9)
-![Screenshot_20240920_184003](https://github.com/user-attachments/assets/5b2249fe-db5b-47f0-9b1b-d6ca7711f0de)
+<image src=https://github.com/user-attachments/assets/e43223d2-9a1b-47d4-a70d-18fa23046ac7 width=300>
+<image src=https://github.com/user-attachments/assets/1ac779ef-797d-47de-a67e-7ec3c2ba6e1c width=300>
+<image src=https://github.com/user-attachments/assets/69f61a3f-9442-4769-8433-d2d9235b3959 width=300>
